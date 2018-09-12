@@ -19,10 +19,10 @@ print json_display(order)
 print json_display(patch_mv(mv_url, order_url))
 
 
-credit = (post_credits('credit.json', prefix='post_credits', timestamp=True, open_file=False, del_file=True))
+credit = (post_credits('credit.json', mv_url=mv_url, prefix='post_credits', timestamp=True, open_file=False, del_file=True))
 print json_display(credit)
 
-#debit = (post_debits('debit.json', prefix='post_debits', timestamp=True, open_file=False, del_file=True))
+#debit = (post_debits('debit.json', mv_url=mv_url, prefix='post_debits', timestamp=True, open_file=False, del_file=True))
 #print json_display(debit)
 
 
