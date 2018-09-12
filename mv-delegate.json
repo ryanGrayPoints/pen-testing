@@ -1,0 +1,13 @@
+{
+  "application": "https://staging.lcp.points.com/v1/apps/001bc6dd-28a7-4b44-ae86-22a6e4ba54eb",
+  "memberValidation": {
+    "identifyingFactors": {
+      "firstName": "Mihnea",
+      "lastName": "Galeteanu",
+      "memberId": "1981"
+    }
+  },
+  "memberValidationResponse": {
+    "balance": 9999
+  }
+}

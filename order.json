@@ -1,0 +1,12 @@
+{
+  "data": {
+    "loyaltyProgram": "https://staging.lcp.points.com/v1/2d39854c-101b-43dd-a0c8-39188e700518",
+    "orderDetails": {
+      "basePoints": 1000
+    },
+    "user": {
+      "memberValidation": "<mv_url>"
+    }
+  },
+  "orderType": "EXCHANGE_CREDIT"
+}
