@@ -1,7 +1,0 @@
-{
-  "amount": 1000,
-  "data": {
-    "foo": "bar"
-  },
-  "memberValidation": "<mv_url>"
-}
